@@ -18,7 +18,12 @@ The public generator, curriculum, and verification harness live here; generated
 
 | Sight Singing | Music Dictation |
 | --- | --- |
-| ![A Sight Singing card rendered in Anki](https://raw.githubusercontent.com/ritornello-labs/anki-shared-deck-assets/main/screenshots/sight-singing/sing-front.png) | ![A Dictation card rendered in Anki](https://raw.githubusercontent.com/ritornello-labs/anki-shared-deck-assets/main/screenshots/dictation/dictation-front.png) |
+| ![A Sight Singing card rendered in Anki](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/sing-front.png) | ![A Dictation card rendered in Anki](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/dictation-front.png) |
+
+[Sight Singing animated tour](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/preview.gif)
+· [Sight Singing MP4](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/demo.mp4)
+· [Dictation animated tour](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/preview.gif)
+· [Dictation MP4](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/demo.mp4)
 
 The project started as a 10-card MVP that validates the full pipeline:
 
