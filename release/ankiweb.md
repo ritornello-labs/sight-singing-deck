@@ -20,13 +20,15 @@ Anki's own answer buttons, so **scheduling stays 100% Anki**.
 
 ## In Anki
 
-![Animated tour of Sight Singing prompts and revealed answers](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/preview.gif)
+![Real Sight Singing review captured in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/preview.gif)
 
-![A C-major sight-singing prompt in Anki](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/sing-front.png)
+![A C-major sight-singing prompt in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/gallery-01.png)
 
-![The revealed answer to the sight-singing prompt in Anki](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/sing-back.png)
+![The revealed scale-degree answer in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/gallery-02.png)
 
-[Watch the full Sight Singing preview (MP4)](https://ritornello.dev/media/ankiweb/2026-07-30/sight-singing/demo.mp4)
+![The revealed melody with Anki's grading controls](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/gallery-03.png)
+
+[Watch the full Sight Singing review (MP4)](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/demo.mp4)
 
 ## Card types
 

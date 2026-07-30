@@ -20,13 +20,15 @@ mode.
 
 ## In Anki
 
-![Animated tour of the Dictation editor and revealed target](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/preview.gif)
+![Real Dictation note-entry review captured in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/preview.gif)
 
-![A Dictation card's in-Anki notation editor](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/dictation-front.png)
+![A Dictation card's in-Anki notation editor](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-01.png)
 
-![The target melody revealed after a Dictation card](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/dictation-back.png)
+![A note entered directly on the staff](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-02.png)
 
-[Watch the full Dictation preview (MP4)](https://ritornello.dev/media/ankiweb/2026-07-30/dictation/demo.mp4)
+![The target melody revealed after the attempt](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-03.png)
+
+[Watch the full Dictation interaction (MP4)](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/demo.mp4)
 
 GitHub: [https://github.com/ritornello-labs/sight-singing-deck](https://github.com/ritornello-labs/sight-singing-deck)
 
