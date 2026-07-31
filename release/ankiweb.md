@@ -18,6 +18,16 @@ AnkiMobile (iOS), and AnkiDroid**. Light and dark mode included.
 You grade yourself — sing or clap, then flip and check — and you still press
 Anki's own answer buttons, so **scheduling stays 100% Anki**.
 
+## See it in Anki
+
+![Sight-singing prompt, answer, and next melody](https://ritornello.dev/media/ankiweb/2026-07-31-v2/sight-singing/preview.gif)
+
+![Sing the notated melody](https://ritornello.dev/media/ankiweb/2026-07-31-v2/sight-singing/gallery-01.png)
+
+![Check scale degrees before grading](https://ritornello.dev/media/ankiweb/2026-07-31-v2/sight-singing/gallery-02.png)
+
+[Full-resolution MP4](https://ritornello.dev/media/ankiweb/2026-07-31-v2/sight-singing/demo.mp4)
+
 ## Card types
 
 - **Sing** — read the notated melody, sing it in solfège, then flip to check

@@ -11,6 +11,12 @@ melodies, take dictation on a staff, identify wrong notes, and build rhythm flue
 Everything needed for notation and audio is bundled into the deck, so it works
 offline on Anki Desktop, AnkiMobile, and AnkiDroid.
 
+### See it in Anki
+
+[![Sight Singing prompt, answer, and next melody](https://ritornello.dev/media/ankiweb/2026-07-31-v2/sight-singing/preview.gif)](https://ritornello.dev/media/ankiweb/2026-07-31-v2/sight-singing/demo.mp4)
+
+[Music Dictation demo](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/demo.mp4) · [Browse both galleries](https://ritornello.dev/#sight-singing)
+
 **Available on AnkiWeb:** [Sight Singing](https://ankiweb.net/shared/info/948253022?cb=1784080108165)
 and [Music Dictation](https://ankiweb.net/shared/info/166250534?cb=1784080288775).
 The public generator, curriculum, and verification harness live here; generated

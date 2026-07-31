@@ -9,6 +9,16 @@ Each card plays a short phrase, then gives you a built-in notation editor: place
 notes, choose durations, enter rests, ties, dotted values, triplets, and 6/8
 rhythms, then flip to compare your transcription with the original.
 
+## See it in Anki
+
+![Enter a transcription and compare it with the answer](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/preview.gif)
+
+![Built-in notation editor](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/gallery-01.png)
+
+![Note-by-note answer comparison](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/gallery-03.png)
+
+[Full-resolution MP4](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/demo.mp4)
+
 The course is function-first and uses movable-do solfege. It starts with stable
 tonal patterns, then builds toward stepwise motion, tendency tones, wider leaps,
 rhythm, minor, other keys, and compound meter. You still use Anki's own answer
