@@ -18,18 +18,6 @@ Everything needed to play audio and render notation is bundled in the deck. It
 works offline on Anki Desktop, AnkiMobile (iOS), and AnkiDroid, in light or dark
 mode.
 
-## In Anki
-
-![Real Dictation note-entry review captured in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/preview.gif)
-
-![A Dictation card's in-Anki notation editor](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-01.png)
-
-![A note entered directly on the staff](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-02.png)
-
-![The target melody revealed after the attempt](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-03.png)
-
-[Watch the full Dictation interaction (MP4)](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/demo.mp4)
-
 GitHub: [https://github.com/ritornello-labs/sight-singing-deck](https://github.com/ritornello-labs/sight-singing-deck)
 
 This deck is the dictation companion to

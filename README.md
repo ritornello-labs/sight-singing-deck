@@ -16,15 +16,6 @@ and [Music Dictation](https://ankiweb.net/shared/info/166250534?cb=1784080288775
 The public generator, curriculum, and verification harness live here; generated
 `.apkg` artifacts stay out of Git.
 
-| Sight Singing | Music Dictation |
-| --- | --- |
-| ![A Sight Singing card rendered in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/gallery-01.png) | ![A Dictation card rendered in Anki](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/gallery-02.png) |
-
-[Sight Singing real Anki review](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/preview.gif)
-· [Sight Singing MP4](https://ritornello.dev/media/ankiweb/2026-07-31/sight-singing/demo.mp4)
-· [Dictation real Anki review](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/preview.gif)
-· [Dictation MP4](https://ritornello.dev/media/ankiweb/2026-07-31/dictation/demo.mp4)
-
 The project started as a 10-card MVP that validates the full pipeline:
 
 - Python generates structured melody card data.
