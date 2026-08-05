@@ -11,13 +11,11 @@ rhythms, then flip to compare your transcription with the original.
 
 ## See it in Anki
 
-![Enter a transcription and compare it with the answer](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/preview.gif)
+![Start a later-stage six-event dictation exercise](https://ritornello.dev/media/ankiweb/2026-08-05-v3/dictation/gallery-01.png)
 
-![Built-in notation editor](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/gallery-01.png)
+![Compare the transcription with the complete target melody](https://ritornello.dev/media/ankiweb/2026-08-05-v3/dictation/gallery-02.png)
 
-![Note-by-note answer comparison](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/gallery-03.png)
-
-[Full-resolution MP4](https://ritornello.dev/media/ankiweb/2026-07-31-v2/dictation/demo.mp4)
+[Full-resolution MP4](https://ritornello.dev/media/ankiweb/2026-08-05-v3/dictation/demo.mp4)
 
 The course is function-first and uses movable-do solfege. It starts with stable
 tonal patterns, then builds toward stepwise motion, tendency tones, wider leaps,
