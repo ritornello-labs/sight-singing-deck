@@ -17,7 +17,7 @@ offline on Anki Desktop, AnkiMobile, and AnkiDroid.
 
 ![Sight Singing answer with scale degrees](https://ritornello.dev/media/ankiweb/2026-08-05-v3/sight-singing/gallery-02.png)
 
-[Harder DD9 Music Dictation demo](https://ritornello.dev/media/ankiweb/2026-08-05-v3/dictation/demo.mp4) · [Browse both galleries](https://ritornello.dev/#sight-singing)
+[Harder DD9 Music Dictation demo](https://ritornello.dev/media/ankiweb/2026-08-06-v4/dictation/demo.mp4) · [Browse both galleries](https://ritornello.dev/#sight-singing)
 
 **Available on AnkiWeb:** [Sight Singing](https://ankiweb.net/shared/info/948253022?cb=1784080108165)
 and [Music Dictation](https://ankiweb.net/shared/info/166250534?cb=1784080288775).
