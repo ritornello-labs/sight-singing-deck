@@ -30,3 +30,5 @@ GitHub: [https://github.com/ritornello-labs/sight-singing-deck](https://github.c
 
 This deck is the dictation companion to
 [Sight Singing — a function-first ear & reading course](https://ankiweb.net/shared/info/948253022?cb=1784080108165).
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).

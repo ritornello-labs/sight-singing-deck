@@ -195,3 +195,5 @@ Anki to delete the orphaned older clips.
 ## License
 
 [MIT](LICENSE)
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).

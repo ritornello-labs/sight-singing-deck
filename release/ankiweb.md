@@ -82,3 +82,5 @@ it** — the card, notation, and audio all work. It's a known false positive in
 AnkiDroid's own reviewer (Anki-Android issues #16510 and #10033), not a problem
 with this deck: these cards load no external files at all. It never appears on
 Desktop or iOS.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
