@@ -4,6 +4,10 @@ tags: music dictation ear-training music-theory rhythm notation transcription
 support_url: https://github.com/ritornello-labs/sight-singing-deck
 ---
 
+<img src="https://ritornello.dev/media/brand/listing-banner-v1.png" alt="Ritornello" width="700">
+
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 An interactive course for learning to hear a melody and write it on a staff.
 Each card plays a short phrase, then gives you a built-in notation editor: place
 notes, choose durations, enter rests, ties, dotted values, triplets, and 6/8

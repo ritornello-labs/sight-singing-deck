@@ -4,6 +4,10 @@ tags: sight-singing solfege ear-training music music-theory sight-reading notati
 support_url: https://github.com/ritornello-labs/sight-singing-deck
 ---
 
+<img src="https://ritornello.dev/media/brand/listing-banner-v1.png" alt="Ritornello" width="700">
+
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 A from-scratch course for learning to **read music by ear** — to look at a
 melody and hear it, and to hear a melody and write it down. It's built around
 **movable-do solfège** and ordered by **tonal function**, not by interval size:
