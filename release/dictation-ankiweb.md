@@ -19,8 +19,6 @@ rhythms, then flip to compare your transcription with the original.
 
 ![Compare a six-event transcription with the target melody](https://ritornello.dev/media/ankiweb/2026-08-06-v4/dictation/gallery-02.png)
 
-[3.4-second full-resolution MP4](https://ritornello.dev/media/ankiweb/2026-08-06-v4/dictation/demo.mp4)
-
 The course is function-first and uses movable-do solfege. It starts with stable
 tonal patterns, then builds toward stepwise motion, tendency tones, wider leaps,
 rhythm, minor, other keys, and compound meter. You still use Anki's own answer
