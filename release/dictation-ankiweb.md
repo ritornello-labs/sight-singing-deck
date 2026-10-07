@@ -8,29 +8,20 @@ support_url: https://github.com/ritornello-labs/sight-singing-deck
 
 [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
-An interactive course for learning to hear a melody and write it on a staff.
-Each card plays a short phrase, then gives you a built-in notation editor: place
-notes, choose durations, enter rests, ties, dotted values, triplets, and 6/8
-rhythms, then flip to compare your transcription with the original.
+Learn to hear a melody and write it on a staff. Each card plays a short phrase and provides a built-in notation editor; reveal the answer to compare your transcription with the target.
+
+**774 notes and cards.** The function-first course uses movable-do solfège and develops tonal patterns, stepwise motion, tendency tones, leaps, rhythm, minor keys, other keys, and compound meter.
 
 ## See it in Anki
 
-![Start a later-stage six-event dictation exercise](https://ritornello.dev/media/ankiweb/2026-08-06-v4/dictation/gallery-01.png)
+![Enter a six-note transcription in the native Anki card editor and reveal comparison feedback](https://ritornello.dev/media/ankiweb/2026-10-07-v7/dictation/entry.gif)
 
-![Compare a six-event transcription with the target melody](https://ritornello.dev/media/ankiweb/2026-08-06-v4/dictation/gallery-02.png)
+Use the editor to place notes, choose durations, and add rests, ties, dotted values, triplets, and 6/8 rhythms. Undo and erase let you revise an attempt. Feedback marks matching and different events; Anki's own answer buttons control scheduling.
 
-The course is function-first and uses movable-do solfege. It starts with stable
-tonal patterns, then builds toward stepwise motion, tendency tones, wider leaps,
-rhythm, minor, other keys, and compound meter. You still use Anki's own answer
-buttons, so scheduling remains entirely in Anki.
+Audio and notation are bundled for offline study. Designed for Anki Desktop, AnkiMobile, and AnkiDroid, in light and dark modes.
 
-Everything needed to play audio and render notation is bundled in the deck. It
-works offline on Anki Desktop, AnkiMobile (iOS), and AnkiDroid, in light or dark
-mode.
+This is the companion to [Sight Singing](https://ankiweb.net/shared/info/948253022).
 
 GitHub: [https://github.com/ritornello-labs/sight-singing-deck](https://github.com/ritornello-labs/sight-singing-deck)
-
-This deck is the dictation companion to
-[Sight Singing — a function-first ear & reading course](https://ankiweb.net/shared/info/948253022?cb=1784080108165).
 
 Support continued development: [ritornello.dev/support](https://ritornello.dev/support).

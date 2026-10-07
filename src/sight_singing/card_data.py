@@ -148,6 +148,10 @@ def error_to_card_fields(
         payload.append(
             {
                 "f": played_file,              # clip of this wrong performance
+                # Anki's native APKG export does not detect plain JSON filenames.
+                # The hidden JSON container parses this inert element out of its
+                # textContent, while Anki sees a supported media reference.
+                "media": f"<audio preload='none' src='{played_file}'></audio>",
                 "i": int(v["error_index"]),    # which note is wrong
                 "label": str(v["label"]),      # human reveal
             }

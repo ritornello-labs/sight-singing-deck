@@ -8,83 +8,38 @@ support_url: https://github.com/ritornello-labs/sight-singing-deck
 
 [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
-A from-scratch course for learning to **read music by ear** — to look at a
-melody and hear it, and to hear a melody and write it down. It's built around
-**movable-do solfège** and ordered by **tonal function**, not by interval size:
-you start with *sol–mi*, add the tonic triad, fill in stepwise motion, learn how
-the tendency tones (*ti→do*, *fa→mi*) pull, and only then take on wider leaps. So
-every card sits on ground the earlier ones prepared.
+A function-first course for reading music by ear: look at a melody, hear it internally, and sing it in [movable-do solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge#Movable_do_solf%C3%A8ge).
 
-Nothing to configure and nothing to download: the notation engine and all audio
-are **bundled in the deck**, so it renders and plays **offline on Anki Desktop,
-AnkiMobile (iOS), and AnkiDroid**. Light and dark mode included.
-
-You grade yourself — sing or clap, then flip and check — and you still press
-Anki's own answer buttons, so **scheduling stays 100% Anki**.
+The melodic course starts with sol–mi, adds the tonic triad and stepwise motion, then develops tendency tones and wider leaps. **1,470 notes and cards** cover three distinct activities.
 
 ## See it in Anki
 
-![Sing the notated melody](https://ritornello.dev/media/ankiweb/2026-08-05-v3/sight-singing/gallery-01.png)
+![Read and sing a melody, then check its scale degrees](https://ritornello.dev/media/ankiweb/2026-10-07-v7/sight-singing/sing.gif)
 
-![Check scale degrees before grading](https://ritornello.dev/media/ankiweb/2026-08-05-v3/sight-singing/gallery-02.png)
+![Read and clap a rhythm, then check the recording](https://ritornello.dev/media/ankiweb/2026-10-07-v7/sight-singing/rhythm.gif)
+
+![Identify the wrong note, then reveal it in red](https://ritornello.dev/media/ankiweb/2026-10-07-v7/sight-singing/error.gif)
 
 ## Card types
 
-- **Sing** — read the notated melody, sing it in solfège, then flip to check
-  your pitches and see each note's scale degree.
-- **Take dictation** — hear a melody and **place the notes on a staff** (a
-  built-in pointer editor: preview, drag-to-aim, erase, undo), then flip to see
-  your answer compared note-by-note against the original.
-- **Find the wrong note** — hear a performance with exactly one in-key wrong
-  note and **tap the note that sounds off**; the card grades your tap and reveals
-  the culprit. A fresh wrong note is chosen each review, so it stays an ear test,
-  never a memory of "it's always the third one."
-- **Rhythm** — read and clap a one-bar rhythm on a single pitch, so the only
-  challenge is timing: pulse, rests, eighth pairs, dotted figures, syncopation
-  (ties), and triplets.
+- **Sing:** read a melody, sing it in solfège, then reveal its scale degrees and check with the recording.
+- **Rhythm:** read and clap a one-bar rhythm on a single pitch. The course includes rests, eighth pairs, dotted figures, ties, and triplets.
+- **Find the wrong note:** hear a performance with one in-key wrong note, tap the note that sounds different, and reveal the answer. A fresh variant is chosen each review.
 
-Each melodic card gives you the support you choose: a **cadence** to establish
-the key, the **first note**, the **tonic**, and a sustained **drone** you can
-hold under your voice.
+Cadence, first-note, tonic, and drone controls provide optional support. Notation and audio are bundled for offline study. You still grade with Anki's answer buttons.
 
-## How it's organised
+## Study order
 
-Seven tracks, numbered in study order, each with a short "how to use me" note on
-its deck screen:
-
-- **1 · Core: Major** and **2 · Core: Minor** — the melodic spine (natural and
-  harmonic minor, including the raised leading tone). Work these top to bottom.
-- **3 · Drill: Rhythm** and **4 · Drill: Intervals** — run these alongside the
-  core from day one. Intervals are isolated two-note drills, seconds through the
-  octave, up and down.
-- **5 · Skill: Error Detection** — the listening game above, once you can read a
-  short phrase confidently.
-- **6 · Transfer: Other Keys** (G and F major) and **7 · Transfer: Bass Clef**
-  (C major and A minor) — the same movable-do skills in new keys and on the
-  lower staff, for once C major feels fluent. Cards show the correct key
-  signature and a cadence transposed to match.
-
-Every note is **tagged by phase, stage, track, and key**, so you can carve out
-your own mixed-review checkpoints with saved searches and filtered decks — see
-the GitHub README for ready-made recipes.
+Seven numbered tracks cover Major, Minor, Rhythm, Intervals, Error Detection, Other Keys, and Bass Clef. Notes have phase, stage, track, and key tags; the repository includes mixed-review recipes.
 
 ## Companion deck
 
-For the complementary skill of hearing a melody and writing it on a staff, use
-[Music Dictation - Write What You Hear](https://ankiweb.net/shared/info/166250534?cb=1784080288775).
+To practise writing what you hear on a staff, use the separate [Music Dictation](https://ankiweb.net/shared/info/166250534) deck.
 
-## Source & issues
+## Source and compatibility
+
+Melodies, audio, and notation are produced by the open-source generator. Designed for Anki Desktop, AnkiMobile, and AnkiDroid, with light and dark modes. Some AnkiDroid versions can display a card-content warning despite successful rendering; report persistent playback or rendering failures on GitHub.
 
 GitHub: [https://github.com/ritornello-labs/sight-singing-deck](https://github.com/ritornello-labs/sight-singing-deck)
-
-The whole deck — melodies, audio, and notation — is produced by the open-source
-generator in the repository above.
-
-**One harmless note for AnkiDroid users:** Android may briefly show a *"Card
-Content Error: Failed to load '…'"* message when a card opens. **You can ignore
-it** — the card, notation, and audio all work. It's a known false positive in
-AnkiDroid's own reviewer (Anki-Android issues #16510 and #10033), not a problem
-with this deck: these cards load no external files at all. It never appears on
-Desktop or iOS.
 
 Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
