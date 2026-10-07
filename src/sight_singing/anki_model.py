@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import json
 from pathlib import Path
+from typing import Mapping
 
 import genanki
 
@@ -536,6 +538,23 @@ ERROR_FIELD_NAMES = [
     "DroneAudioFile",
     "WrittenAudioFile",  # the correct clip — "play as written"
 ]
+
+
+def error_note_guid(fields: Mapping[str, str]) -> str:
+    """Keep the original note identity when adding audio export references."""
+    variants = json.loads(fields["ErrorVariants"])
+    legacy_variants = [
+        {key: value for key, value in variant.items() if key != "media"}
+        for variant in variants
+    ]
+    legacy_json = json.dumps(legacy_variants, separators=(",", ":"))
+    return genanki.guid_for(
+        *(
+            legacy_json if name == "ErrorVariants" else fields[name]
+            for name in ERROR_FIELD_NAMES
+        )
+    )
+
 
 ERROR_FRONT_TEMPLATE = """
 {{#WrittenAudioFile}}

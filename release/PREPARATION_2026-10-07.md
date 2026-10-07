@@ -40,4 +40,6 @@ For add-ons installed directly from GitHub release files, release notes must exp
 
 Anki’s native export omitted 384 Error Detection performance clips because their filenames existed only as JSON values. Each variant now includes an inert HTML audio reference inside its hidden JSON container, which Anki recognizes for export. The public generator and disposable candidate use the same correction. All 1,827 referenced Sight Singing audio files are packaged; Dictation has 806. No source audio was missing. Native Anki parsed all six variants in the demo and preserved their random-performance behavior. The 64 affected candidate notes retain their note, model, GUID and card identities. Original Publisher and personal collection were not edited.
 
+Both Error Detection package builders explicitly compute the legacy field-based GUID after omitting only the new export-reference property. Verification against all 64 historical candidate note GUIDs passed, so future generated packages keep updating those notes in place. Candidate artifact, listing and GIF hashes are unchanged by this generator identity fix.
+
 The native Dictation recording places six notes through the actual card pointer handlers, then reveals feedback with five matches and one intentional difference.

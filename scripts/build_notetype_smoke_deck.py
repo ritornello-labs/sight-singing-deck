@@ -23,6 +23,7 @@ from sight_singing.anki_model import (  # noqa: E402
     DICTATION_FIELD_NAMES,
     ERROR_FIELD_NAMES,
     FIELD_NAMES,
+    error_note_guid,
     make_dictation_model,
     make_error_model,
     make_model,
@@ -75,7 +76,11 @@ def main() -> int:
         assert isinstance(written, dict)
         assert isinstance(variants, list)
         f = error_to_card_fields(written, variants)
-        deck.add_note(genanki.Note(model=err_model, fields=[f[n] for n in ERROR_FIELD_NAMES]))
+        deck.add_note(genanki.Note(
+            model=err_model,
+            fields=[f[n] for n in ERROR_FIELD_NAMES],
+            guid=error_note_guid(f),
+        ))
     for mel in rhy_lib:
         f = melody_to_card_fields(mel)
         deck.add_note(genanki.Note(model=rhy_model, fields=[f[n] for n in FIELD_NAMES]))

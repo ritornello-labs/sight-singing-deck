@@ -32,6 +32,7 @@ from sight_singing.anki_model import (
     ERROR_FIELD_NAMES,
     FIELD_NAMES,
     MODEL_NAME,
+    error_note_guid,
     make_error_model,
     make_model,
     make_rhythm_model,
@@ -253,6 +254,7 @@ def build(out_path: Path, base_deck_name: str, assets_dir: Path, limit: int | No
             note = genanki.Note(
                 model=err_model,
                 fields=[fields[f] for f in ERROR_FIELD_NAMES],
+                guid=error_note_guid(fields),
                 tags=[str(t) for t in tags],
             )
             err_decks[sid].add_note(note)
