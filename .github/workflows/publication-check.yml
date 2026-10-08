@@ -6,6 +6,6 @@ permissions:
   contents: read
 jobs:
   publication:
-    uses: ritornello-labs/anki-addon-release/.github/workflows/publication-gate.yml@0a0fd06d19227279dca923c8a053d44d7d86a3a4
+    uses: ritornello-labs/anki-addon-release/.github/workflows/publication-gate.yml@ac2a7f993bd9237ea0b597bf079bd14c520477c1
     with:
-      tool_ref: 0a0fd06d19227279dca923c8a053d44d7d86a3a4
+      tool_ref: ac2a7f993bd9237ea0b597bf079bd14c520477c1
