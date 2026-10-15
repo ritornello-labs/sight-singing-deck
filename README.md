@@ -1,9 +1,11 @@
 # Sight Singing
 
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-16A34A)](LICENSE)
 [![Anki Workbench](https://github.com/ritornello-labs/sight-singing-deck/actions/workflows/anki-workbench.yml/badge.svg)](https://github.com/ritornello-labs/sight-singing-deck/actions/workflows/anki-workbench.yml)
-[![Sight Singing on AnkiWeb](https://img.shields.io/badge/AnkiWeb-Sight%20Singing-2f80ed)](https://ankiweb.net/shared/info/948253022?cb=1784080108165)
-[![Dictation on AnkiWeb](https://img.shields.io/badge/AnkiWeb-Music%20Dictation-2f80ed)](https://ankiweb.net/shared/info/166250534?cb=1784080288775)
+[![Sight Singing on AnkiWeb](https://img.shields.io/badge/AnkiWeb-Sight%20Singing-2f80ed)](https://ankiweb.net/shared/info/948253022)
+[![Dictation on AnkiWeb](https://img.shields.io/badge/AnkiWeb-Music%20Dictation-2f80ed)](https://ankiweb.net/shared/info/166250534)
 ![Anki platforms](https://img.shields.io/badge/Anki-Desktop%20%7C%20Mobile%20%7C%20Droid-0EA5E9)
 
 A code-generated, function-first course for learning to read music by ear: sing
@@ -13,14 +15,18 @@ offline on Anki Desktop, AnkiMobile, and AnkiDroid.
 
 ### See it in Anki
 
-![Sight Singing melody prompt](https://ritornello.dev/media/ankiweb/2026-08-05-v3/sight-singing/gallery-01.png)
+![Sing a melody, then check its scale degrees](https://ritornello.dev/media/ankiweb/2026-10-07-v7/sight-singing/sing.gif)
 
-![Sight Singing answer with scale degrees](https://ritornello.dev/media/ankiweb/2026-08-05-v3/sight-singing/gallery-02.png)
+![Clap a rhythm, then check the recording](https://ritornello.dev/media/ankiweb/2026-10-07-v7/sight-singing/rhythm.gif)
 
-![Music Dictation entry and answer comparison](https://ritornello.dev/media/ankiweb/2026-10-07-v7/dictation/entry.gif) · [Browse both galleries](https://ritornello.dev/#sight-singing)
+![Find the wrong note, then reveal it](https://ritornello.dev/media/ankiweb/2026-10-07-v7/sight-singing/error.gif)
 
-**Available on AnkiWeb:** [Sight Singing](https://ankiweb.net/shared/info/948253022?cb=1784080108165)
-and [Music Dictation](https://ankiweb.net/shared/info/166250534?cb=1784080288775).
+![Write what you hear, then compare the answer](https://ritornello.dev/media/ankiweb/2026-10-07-v7/dictation/entry.gif)
+
+[Browse both galleries](https://ritornello.dev/#sight-singing).
+
+**Available on AnkiWeb:** [Sight Singing](https://ankiweb.net/shared/info/948253022)
+and [Music Dictation](https://ankiweb.net/shared/info/166250534).
 The public generator, curriculum, and verification harness live here; generated
 `.apkg` artifacts stay out of Git.
 
@@ -39,6 +45,8 @@ See [`KNOWN_ISSUES.md`](KNOWN_ISSUES.md) for the one harmless, AnkiDroid-side
 publishing).
 
 Current work also includes fixed-audio curriculum planning, rhythm curriculum notes, and a transcription minigame/debug harness.
+
+Download the archived `.apkg` from the [latest tagged GitHub release](https://github.com/ritornello-labs/sight-singing-deck/releases/latest).
 
 ## Key Files
 
